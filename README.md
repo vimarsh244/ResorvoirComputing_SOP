@@ -1,6 +1,6 @@
-# Study Oriented Project: Non linear systems in ML & Resorvoir Computing
+# Non linear systems in ML & Resorvoir Computing
 
-This project, conducted under the guidance of Prof. Gaurav Dar, explores the state-of-the-art in reservoir computing with a special focus on analyzing and reproducing research findings from recent literature.
+This project, explores reservoir computing with a special focus on analyzing and using various non linear systems and hopefully able to create a general resorvoir for various different tasks.
 
 ## Overview
 
@@ -35,3 +35,8 @@ Below are some preliminary results of implementations and runs
 **From [simple_pendulum_RC.ipynb](simple_pendulum_RC.ipynb):**
 
 ![Simple Pendulum RC](results_0/simple%20pendulum%20track.png)
+
+
+## Acknowledgment
+
+This project is conducted under the guidance of Prof. Gaurav Dar as part of my Study Oriented Project. 
