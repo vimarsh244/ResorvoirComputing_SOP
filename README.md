@@ -7,7 +7,7 @@ This project, explores reservoir computing with a special focus on analyzing and
 Reservoir computing is a framework for designing recurrent neural networks, particularly effective for time-series processing and complex dynamic systems. This study investigates:
 - The principles behind Echo State Networks (ESN)
 - Advanced learning strategies and online/offline training methods
-- Exploration of hyper-parameters using optimization tools
+- Exploration of hyper-parameters optimization
 
 One of the best resource for overview on RC: [lit](papers/RC_Intro.pdf)
 
