@@ -2,6 +2,14 @@
 
 This project, explores reservoir computing with a special focus on analyzing and using various non linear systems and hopefully able to create a general resorvoir for various different tasks.
 
+[Final Report](/Reservoir_Computing_SOP_final_report_draft.pdf)
+
+[Seminar Presentation](/Reservoir%20Computing%20-%20SOP%20Presentation.pdf)
+
+![Reservoir Computing diagram](/reservoir_computing_visualization.png)
+
+TODO: Code Cleanup
+
 ## Overview
 
 Reservoir computing is a framework for designing recurrent neural networks, particularly effective for time-series processing and complex dynamic systems. This study investigates:
@@ -35,6 +43,23 @@ Below are some preliminary results of implementations and runs
 **From [simple_pendulum_RC.ipynb](simple_pendulum_RC.ipynb):**
 
 ![Simple Pendulum RC](results_0/simple%20pendulum%20track.png)
+
+
+![Bifurcation Diagram](<Report Source Latex/figures/bd_1_results.png>)
+
+
+**Using Logistic Map as a Reservoir**
+
+![Hindmarsh-Rose System](/results_0/hindmarsh_rose.png)
+
+
+
+**From [using_lstm.ipynb](/using_lstm.ipynb)**
+
+
+![using LSTM for lyapunov exponent](<Report Source Latex/figures/lstm_bd_3.png>)
+
+![Using LSTM for Lorenz System](/results_0/lorenz_lstm.png)
 
 
 ## Acknowledgment
